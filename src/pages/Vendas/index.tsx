@@ -13,6 +13,7 @@ const Vendas: React.FC = () => {
       <Header></Header>
       <Row className="main">
         <h1 className="main_name">Roberto Santos Nascimneto</h1>
+        <h2 className="main_oab">OAB n° 12234234</h2>
         <img src={logo} alt="" className="main_logo" /> 
         <h1 className="main_adv">Advogado Trabalhista</h1>
       </Row>
