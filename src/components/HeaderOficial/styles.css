@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+}
+
+.header_img {
+  width: 20%;
+}
+
+.header_nav {
+  /* background: green; */
+  text-decoration:none;
+  display: flex;
+  flex: 1;
+  list-style: none;
+  justify-content: space-around; 
+}
+
+.header_nav_link {
+  text-decoration:none;
+  color: #024b66;
+  font-family: Poppins;
+  font-weight: 500;
+}
