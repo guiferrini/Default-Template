@@ -34,6 +34,17 @@
   /* justify-content: center; */
 }
 
+.main_trab {
+  color: white;
+  opacity: 1;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 30px;
+  position: relative;
+  top: -20px;
+  margin-left: 10%;
+}
+
 .main_adv {
   color: white;
   opacity: 1;
