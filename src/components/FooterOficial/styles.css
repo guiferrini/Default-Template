@@ -1,0 +1,36 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #0c0c0c;
+}
+
+.footer_sociais {
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.footer_logo {
+  text-align: center;
+}
+
+.footer_img {
+  max-width: 60%;
+  margin-bottom: 0;
+}
+
+.footer_icone_a {
+  text-decoration:none;
+  color: white;
+  font-family: Poppins;
+  font-size: 15px;
+  width: 35vw;
+}
+
+.footer_icone_strong {
+  margin-left: 7px;
+}

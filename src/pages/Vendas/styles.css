@@ -16,6 +16,7 @@
   position: relative;
   top: 10px;
   margin-left: 10%;
+  margin-top: 40px;
 }
 
 .main_oab {
@@ -25,7 +26,7 @@
   font-weight: 400;
   font-size: 15px;
   position: relative;
-  top: -20px;
+  top: -10px;
   margin-left: 10%;
 }
 
@@ -48,21 +49,8 @@
   margin-left: 55%;
 }
 
-.main_adv {
-  color: white;
-  opacity: 1;
-  font-family: Poppins;
-  font-weight: 500;
-  position: relative;
-  top: 10px;
-  margin-left: 10%;
-  /* position: relative;
-  bottom: 10px;
-  margin-left: 35%; */
-}
-
 .main_logo_img {
-  border-radius: 20px;
+  border-radius: 20px;  
   position: relative;
   width: 20%;
   /* float: right; */
@@ -70,37 +58,3 @@
   /* margin-left: 20opx; n rolou*/
 }
 
-.footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  background: #0c0c0c;
-}
-
-.footer_sociais {
-  padding: 3px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  /* align-items: center; */
-}
-
-.footer_logo {
-  text-align: center;
-}
-
-.footer_img {
-  max-width: 60%;
-  margin-bottom: 0;}
-
-.footer_icone_a {
-  text-decoration:none;
-  color: white;
-  font-family: Poppins;
-  font-size: 15px;
-}
-
-.footer_icone_strong {
-  margin-left: 7px;
-}
