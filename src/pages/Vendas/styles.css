@@ -43,6 +43,9 @@
   position: relative;
   top: -20px;
   margin-left: 10%;
+  position: relative;
+  bottom: 10px;
+  margin-left: 55%;
 }
 
 .main_adv {
