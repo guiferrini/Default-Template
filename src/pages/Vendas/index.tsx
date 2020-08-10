@@ -23,7 +23,7 @@ const Vendas: React.FC = () => {
         </div>
         <div className="main_logo">
           <img src={logo} alt="" className="main_logo_img" /> 
-          <h1 className="main_adv">Advogado Trabalhista</h1>
+          <h3 className="main_adv">Advogado Trabalhista</h3>
         </div>
       </Row>
 
