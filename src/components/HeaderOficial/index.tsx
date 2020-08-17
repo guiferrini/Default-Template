@@ -1,5 +1,5 @@
 import React from 'react';
-
+// import { Link } from "gatsby"
 import { Container, Row, Col, Nav, NavItem, NavLink } from 'reactstrap';
 
 import logo from '../../images/Roberto_Nascimento_logo.png';
@@ -12,7 +12,8 @@ const HeaderOficial: React.FC = () => {
         <img src={logo} alt="" className="header_img" />
         <Nav className="header_nav">
           <NavItem >
-            <NavLink className="header_nav_link" href="#">Curso</NavLink>
+            {/* <Link to="/cursos">Cursos</Link> */}
+            <NavLink className="header_nav_link" href="/ccursos">Curso</NavLink>
           </NavItem>
           <NavItem > 
             <NavLink className="header_nav_link" href="#">Sobre</NavLink>
